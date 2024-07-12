@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MedicalRecordsManagement
+build_property.RootNamespace = MedicalRecordsManagement
+build_property.ProjectDir = C:\cdac march 2024\dotNetVikramsir\MiniProject\MedicalRecordsManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\cdac march 2024\dotNetVikramsir\MiniProject\MedicalRecordsManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Admin/AddDoctorcshtml.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRG9jdG9yY3NodG1sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Doctor/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Doctor/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFNpZ251cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Patient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Patient/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Patient/PatientTreatments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxQYXRpZW50VHJlYXRtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Patient/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Treatments/AddTreatment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlYXRtZW50c1xBZGRUcmVhdG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Treatments/DeleteTreatment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlYXRtZW50c1xEZWxldGVUcmVhdG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Treatments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlYXRtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Treatments/EditTreatment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlYXRtZW50c1xFZGl0VHJlYXRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Treatments/Treatments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlYXRtZW50c1xUcmVhdG1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cdac march 2024/dotNetVikramsir/MiniProject/MedicalRecordsManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pae5m3upko

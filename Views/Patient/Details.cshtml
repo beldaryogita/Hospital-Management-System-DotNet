@@ -1,0 +1,43 @@
+﻿@model Treatment
+
+<h2>Patient Treatment Details</h2>
+
+
+<div>
+    <h4>Treatment</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Date
+        </dt>
+        <dd class="col-sm-10">
+            @Model.TreatmentDate.ToShortDateString()
+        </dd>
+        <dt class="col-sm-2">
+            Patient
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Patient.FirstName @Model.Patient.LastName
+        </dd>
+        <dt class="col-sm-2">
+            Doctor
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Doctor.FirstName @Model.Doctor.LastName
+        </dd>
+        <dt class="col-sm-2">
+            Diagnosis
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Diagnosis
+        </dd>
+        <dt class="col-sm-2">
+            Prescription
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Prescription
+        </dd>
+    </dl>
+
+    
+</div>

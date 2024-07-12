@@ -1,0 +1,36 @@
+﻿@model List<Treatment>
+
+<h2>Patient Treatments</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Patient Id</th>
+            <th>Patient First Name</th>
+            <th>Patient Last Name</th>
+            <th>Doctor Id</th>
+            <th>Doctor First Name</th>
+            <th>Doctor Last Name</th>
+            <th>Treatment Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var treatment in Model)
+        {
+            <tr>
+                <td>@(treatment.TreatmentDate.ToShortDateString() ?? "")</td>
+                <td>@(treatment.Patient?.PatientId ?? 0)</td>
+                <td>@(treatment.Patient?.FirstName ?? "")</td>
+                <td>@(treatment.Patient?.LastName ?? "")</td>
+                <td>@(treatment.Doctor?.DoctorId ?? 0)</td>
+                <td>@(treatment.Doctor?.FirstName ?? "")</td>
+                <td>@(treatment.Doctor?.LastName ?? "")</td>
+                <td>@(treatment.Diagnosis ?? "")</td>
+                <td>   <a asp-controller="Patient" asp-action="Details" asp-route-id="@treatment.TreatmentId">Details</a>  </td>
+               
+            </tr>
+        }
+
+    </tbody>
+</table>
